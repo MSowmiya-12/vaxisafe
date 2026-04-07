@@ -4,7 +4,7 @@ import {
   calculateRisk, 
   calculateRouteRisk, 
   generateTemperatureHistory, 
-  formatTime,
+  // formatTime removed - not used in this file
   generateProjectedTrend,
   compareRoutes
 } from './utils/riskCalculator';
