@@ -168,7 +168,7 @@ function App() {
       <header className="header">
         <div className="header-content">
           <div className="logo-section">
-            <div className="logo-icon">💉</div>
+          
             <div className="logo-text">
               <h1>VaxiSafe</h1>
               <p>Offline AI for Vaccine Safety</p>
